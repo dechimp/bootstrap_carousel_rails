@@ -1,0 +1,8 @@
+== README
+
+A carousel (slider) inside a blank rails app.
+
+Uses Slim, Coffeescript and Sass (SCSS)
+
+Demo: http://de-carousel.herokuapp.com/
+
