@@ -4,4 +4,4 @@ A Bootstrap carousel example inside a blank rails app.
 
 Uses Slim, Coffeescript and Sass (SCSS)
 
-Demo coming soon
+Demo https://bootstrap-carousel.herokuapp.com/
